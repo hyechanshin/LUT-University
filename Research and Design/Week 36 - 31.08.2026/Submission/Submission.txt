@@ -1,0 +1,11 @@
+1	Why is the narrow meaning of science problematic for software engineering?
+
+Generally, science seeks knowledge about the natural world, which can clash with software engineering. For instance, in this rapidly evolving era of technology, new challenges arise, and new findings are added to our existing knowledge. Predefined methods can be outdated, while software can contain bugs and unexpected results based on the software environment and the hardware being used. 
+
+1	Why is it difficult to be value free in research, especially when studying humans?
+
+There are numerous factors that could affect the value-free reseraches to extremely difficult to determine, especially when it comes to human studies. Every person has a different background, experiences, and beliefs, making it difficult to achieve a consistent outcome.
+
+1	What do you expect of this course?
+
+I expect to have a clear understanding of the way research design and methods work and their history. I believe I can apply the practical skills and research methods I learned from this course to my own research.

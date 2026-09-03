@@ -1,0 +1,62 @@
+Unity Game Project
+
+Source:
+Free asset from YouTuber Nomad Coder:
+https://on.unitysquare.co.kr/3ZMF3O7
+
+Music source: DanAndPhil All Beats - copyright free
+
+
+Character image generated with Gemini and removebackground tool
+
+Steps: 
+
+- Background images & repeat images 
+imported background image with sky, building, Platform. instead of stretching the image, i used wrap mode for inifinite scrolling, however there was an issue with setting those so it took long time to figure it out. 
+
+created 3d object in 2d, set the background images to texture type to sprite, sprite mode multiple, mesh type : tight, wrap mode to 'REPEAT'. Once material is created, it is important to choose the right shader. in this case, i chose LIT, then expanded tiling from more than 1.
+
+
+
+- script for background images 
+
+created mono behavior script - 'backgroundscroll' (C#). Applied to all 3 background images.
+I want to give different speeds for each backgrounds. (sky, building, Platform)
+
+meshRenderer.material.mainTextureOffset += new Vector2(scrollSpeed * Time.deltaTime, 0);
+
+(speed × time = distance. scrollSpeed is how fast, Time.deltaTime is how much time just passed (one tiny frame's worth), and multiplying them tells you how far to move right now. It keeps the scroll speed the same no matter how fast or slow the computer runs the game.)
+
+
+- Player Jump 1 - Logic 1
+At player, added 'rigidbody 2D' component to apply the gravity physics. 
+Player script created. This is implementation of action when space is being clicked.
+
+Locked player to jump only one time with isGrounded.Used OnCollisionEnter2D method to detect the platform object to set isGrounded to true. This makes player jump only one time, but once the player touch the ground, it will make available to jump again
+
+- Play Jump 2 - Add jumpting animation
+implemented jump and land images and in animator, matched the logic from player run->jump->land->run
+
+- Play jump 3 - Logic 2
+Created parameters in animator logic.
+
+
+------------------------git 2nd push --------------------
+
+- Obstacle part 1 
+
+added buildings, created scripts
+'Mover' - moves building 
+'destroyer' - destroy the buildings , enemy, food 
+'spawner' - spawning the objects
+
+From an empty object, which holds mover, destroyer, spawner scripts. 
+
+delivery enemy added
+halmoni enemy added
+Collider added. 
+
+enemies are part of 'enemy spawner' and it holds mover, destroyer, 'collider' script
+in collider setting the trigger is enabled.
+
+after adding the tags to two enemy, 
