@@ -1,0 +1,8 @@
+1. Explain the difference between theory testing and theory creation research.
+
+Theory testing is a deductive process and is closely related to quantitative research. This can be a survey, unit testing, or it supports a theory to be backed up by facts and tests. While theory creation is an inductive process that uses qualitative tools to develop concepts and solutions to real-world problems, it can take the form of case studies, analyses, etc. Therefore, these two, theory testing and theory creation, are closely related to each other, supporting the lifecycle.
+
+
+2. What is your opinion, how is positivism related to theory testing and creation?
+
+Positivism focuses on factual data and is based on quantitative research. Finding a pattern, survey, unit testing, lab test, and also pursuing a large amount of data.
