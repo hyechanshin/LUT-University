@@ -1,0 +1,4 @@
+"I want a software that allows me to record lecture and transcribe them into lecture note"
+
+What are the problems with the above statement to requirement engineers for gathering, validating, modeling, and prioritizing requirements?
+What are the steps to decompose this statement for better requirement gathering and validation?

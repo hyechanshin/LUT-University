@@ -1,0 +1,5 @@
+What weaknesses can you identify from following requirement? How would you improve it?
+
+”The Background Task Manager shall provide status messages at regular intervals not less than every 60 seconds”
+
+I can spot multiple weaknesses within this text when it comes with analyzing the requirements. How can we provide the status message exactly? and the specific, measurable time and target is not defined. For instance, the time can be defined every 24 hours, 1 day etc. The clear delivered location need to be defined. For instance, this text can be give more clarification in RE with this text "The background task manager shall transmit the status message from the server A to  server B  every 24 hours ± 3 minutes.

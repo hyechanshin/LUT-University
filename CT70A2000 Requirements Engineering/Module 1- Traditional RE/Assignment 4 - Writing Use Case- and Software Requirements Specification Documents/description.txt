@@ -1,0 +1,9 @@
+Assignment 4: Writing Use Case- and Software Requirements Specification Documents
+
+Now it is time to start documenting your requirements. To this end, you need to create two documents:
+
+1- Use Case Document
+2- Software Requirement Specification (SRS)
+3- Sustainability Analysis of Requirements 
+
+Try to find appropriate places in these documents to embed the models that you have developed. Try also to keep information in one place only. If two documents have similar kind of information, just write the information into one document and refer to this document from the other document.

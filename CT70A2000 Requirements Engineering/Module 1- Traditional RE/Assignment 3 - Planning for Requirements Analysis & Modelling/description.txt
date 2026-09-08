@@ -1,0 +1,5 @@
+Assignment 3: Planning for Requirements Analysis & Modelling
+
+Continue updating the Requirements Management Plan. This time you need to agree on and document details about modelling activities and prioritization practices.
+
+Then, begin modelling as agreed based on the elicited requirements.

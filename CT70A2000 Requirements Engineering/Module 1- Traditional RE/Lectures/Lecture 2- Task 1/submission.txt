@@ -1,0 +1,11 @@
+"I want a software that allows me to record lecture and transcribe them into lecture note"
+
+- What are the problems with the above statement to requirement engineers for gathering, validating, modeling, and prioritizing requirements?
+
+The above statement is too vague and broad, it is a high level user requiremnets or user need. This can create problem for requirements engineering for gather enough information. For instance, it is unclear what feature is expected to be delivered, and software has only record feature and transcribe into lecture note, but how and what software functions and how the transcribing part will work exactly? This also makes it difficult to validate.
+
+- What are the steps to decompose this statement for better requirement gathering and validation?
+
+The first step would be identifying and understanding the clear goals and users' needs. Then decompose the user's general needs to a detailed list of the each requirements. Validating and reviewing the requirements with stakeholders. Lastly, prioritizing based on the priority level for their needs. 
+
+*AI declaration: chatGPT was used for grammar check

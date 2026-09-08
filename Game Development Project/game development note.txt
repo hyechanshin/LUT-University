@@ -4,6 +4,9 @@ Source:
 Free asset from YouTuber Nomad Coder:
 https://on.unitysquare.co.kr/3ZMF3O7
 
+
+background remover tool = https://www.remove.bg/
+
 Music source: DanAndPhil All Beats - copyright free
 
 
@@ -59,4 +62,41 @@ Collider added.
 enemies are part of 'enemy spawner' and it holds mover, destroyer, 'collider' script
 in collider setting the trigger is enabled.
 
-after adding the tags to two enemy, 
+   void OnTriggerEnter2D(Collider2D collider)
+    {
+        if(collider.gameObject.tag == "enemy")
+        {
+            
+        }
+        else if(collider.gameObject.tag == "food")
+        {
+            
+        }
+        else if(collider.gameObject.tag == "golden")
+        {
+            
+        }
+    }
+
+- obstacles part 2 
+3 food items added
+
+Each objects   now has its own matching tags(ex: a file named 'goch' gets a tag 'gochu')
+
+now it doesn't do anything when player touches the objects, but it has a trigger
+
+
+-----------------------
+
+- Player Hit and Heal
+In theory, when player hit the enemy, it will lose the hp, and food item will increase the hp. however, golden baechu will make player invincible for x amount of time.
+this will happens when player collide with each objectives.
+
+player will start with 3 lives and default 'invincible' value is set to no. 
+
+inside the event function OnTriggerEnter2D from Player.cs, we will create Hit(), Heal(), StartInvincible() functions.
+---------
+
+- Game Manager (UI)
+basically this will show the status of HP/ interface for intro , gameover, etc
+

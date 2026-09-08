@@ -1,0 +1,20 @@
+Assignment 1: Vision & Scope
+
+Companies: Microsoft, Apple, Oracle, IBM, Adobe, SAP, Dell, Google, VMware, Salesforce, Autodesk, Nokia, Cisco, Finnair.
+
+Client Team
+
+Act as rep of one of the company above providing certain products or services 
+Provide information about your company such as your company's goals, products, or services 
+Provide some goals about a new  or existing product you want to bring to the market for your customers 
+List problems you want this new product to solve for your customer
+
+
+Requirement Engineering Team 
+
+Determine the purpose for your client project. Then, write Project Vision&Scope document, by using this template.
+
+Write the vision statement as instructed in the lecture
+Include Context Diagram in the document
+Remove instructions from the template after writing your own texts  
+You will deliver the document later, so store your document for now. When you need to update the document later on, make sure that you maintain a version history.

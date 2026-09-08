@@ -1,0 +1,3 @@
+What weaknesses can you identify from following requirement? How would  you improve it?
+
+”The Background Task Manager shall provide status messages at regular  intervals not less than every 60 seconds”

@@ -1,0 +1,7 @@
+Assignment 2: Initiating Requirements Management plan & Planning for Elicitation
+
+It is good practice to formally agree on requirements management aspects beforehand. These agreements are typically documented in a requirements management plan. A simple template from Requirements Management Plan can be found here. However, it could be a good idea to search for other examples and modify the template according to your needs. This time, you need to define:
+
+How you will share responsibilities in your team
+Your plan for elicitation
+You will deliver the document later, so store your document for now. When you need to update the document later on, make sure that you maintain a version history.

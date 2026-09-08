@@ -1,0 +1,33 @@
+Assignment 5: Finalizing and delivering all documents
+
+
+Sample Project 1Folder
+This is a sample project from past students to serve as an example for you. 
+
+Disclaimer: I do not certify that everything in these files are perfect, I am only sharing these files to serve as samples. Follow the lecture slides as a guide. 
+
+
+Sample Project 2Folder
+This is a sample project from past students to serve as an example for you. 
+
+Disclaimer: I do not certify that everything in these files are perfect, I am only sharing these files to serve as samples. Follow the lecture slides as a guide. 
+
+
+
+SUBMIT (All project documentation-Module 1)Workshop
+Submissions close: Thursday, 22 October 2026, 11:00 PM
+Assessments open: Friday, 23 October 2026, 1:00 AM
+Assessments close: Thursday, 5 November 2026, 11:00 PM
+Finalize and submit all documents you have created:
+
+Vision & Scope Document
+Use Case Document
+Software Requirements Specification (SRS)
+Sustainability Analysis of Requirement
+Requirements Management Plan
+Make sure that your documentation conforms with the review checklists (provided under Assignment 6)
+
+Make sure that your submission to Moodle was successful!
+ 
+
+Note: Only one member of each group submits the final project documentation. 
