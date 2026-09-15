@@ -1,0 +1,6 @@
+1. How would you classify grounded theory in Orlikowski & Baroudi's classification? Is it positivist, interpretive or critical approach? Why?
+
+Grounded theory is highly interpretive, as it uses participant-generated data and real-world experiences. However, grounded theory can also adopt a positivist or critical stance depending on how the researcher applies it.
+
+2. Give an example of how ethnography could be used in software engineering research.
+For instance, studying how developers work and interact in an IT company, particularly how they work using Agile methods.

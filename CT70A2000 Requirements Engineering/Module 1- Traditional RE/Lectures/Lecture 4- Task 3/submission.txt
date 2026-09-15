@@ -1,12 +1,8 @@
 1.     Choose a Software System
-Select any software system, product, or service that interests you. It can be something you use often like an app, website, or platform.
 
-
+I have chosen Vinted for this assignment. Vinted is a Lithuanian online marketplace that allows users to buy and sell second-hand items.
 
 2.     Analyze Sustainability Impacts Using the SusAF Tool
-Use the Sustainability Awareness Framework (SusAF) tool to identify potential sustainability impacts of your chosen system.
-
-o   Consider all five dimensions of sustainability: technical, environmental, social, individual, and economic.
 
 o   Reflect on the three orders of impact (direct, indirect, and systemic).
 
