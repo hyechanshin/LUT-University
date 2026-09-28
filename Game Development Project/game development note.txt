@@ -1,5 +1,8 @@
 Unity Game Project
 
+game video:
+https://youtu.be/MnwQKv1vyFM
+
 Source:
 Free asset from YouTuber Nomad Coder:
 https://on.unitysquare.co.kr/3ZMF3O7
