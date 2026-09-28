@@ -1,0 +1,7 @@
+1- Give an example how a phenomenon (for example software quality) can be studied quantitatively.
+
+Software quality can be studied qualitatively in many different ways by gathering the factual numbers and scales, and rates.  For instance, threshold/trigger point, your x reaches 3, a bug is classified as critical if the severity score is more than 3, and the number of crashes per 100 users, the success rate of test cases passed, etc.
+
+2- Compare interviews and questionnaires as data collection methods. What are their strengths and weaknesses in scientific research?
+
+Both data collected through interviews and questionnaires are used in the research. Both types of data collection methods have pros and cons. For instance, an interview provides flexibility and detailed responses, but it takes more time, and a questionnaire consists of pre-set questions and answers, making it easy to generalize, but it may be less detailed.
