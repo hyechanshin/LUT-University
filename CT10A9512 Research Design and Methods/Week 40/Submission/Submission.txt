@@ -1,0 +1,6 @@
+1- Give an example of what could weak and strong mode of research be in software engineering
+For instance, a weak mode of research in software engineering would be, a sofeware company introduces to apply ITSM framework into their workplace, without control group and randomized assignment.
+If the same goal is meeting the requirement of the strong mode, the research will add the part of randomized assignments and control group. FOr instance, if company have 10 IT service team, it will use the random assignment to split them into 2 groups. X groups would be part of the control group, the other groups would be experimental group.
+
+2- What is the difference between action and design research?
+Action research and design research are similar but have different concepts. For instance, action research is more focused on solving social phenomena by actively participating in them, while design research is focused on solving problems by building reusable tools or technologies.  

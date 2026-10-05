@@ -1,0 +1,2 @@
+1- Give an example of what could weak and strong mode of research be in software engineering
+2- What is the difference between action and design research?
